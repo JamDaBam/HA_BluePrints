@@ -71,7 +71,7 @@ blueprint:
 
     presence_required_value:
       name: Soll-Präsenzwert (optional)
-      description: Beispiele: 1, home, on. Wenn leer, wird Präsenz ignoriert.
+      description: "Beispiele: 1, home, on. Wenn leer, wird Präsenz ignoriert."
       default: ""
 
     # --- Morgens (immer verfügbar) ---
