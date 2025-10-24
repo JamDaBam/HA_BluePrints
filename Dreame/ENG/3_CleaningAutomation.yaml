@@ -50,7 +50,7 @@ blueprint:
         domain: camera
 
   cleaned_today_helper:
-    name: "Cleaning Performed" flag
+    name: Cleaning Performed flag
     description: Boolean that turns on after cleaning and is reset every day at the chosen time.
     selector:
       entity:
