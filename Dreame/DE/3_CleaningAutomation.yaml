@@ -119,7 +119,7 @@ blueprint:
 
     morning_rooms:
       name: Räume morgens
-      description: Beispiele "2,3,4" oder "Küche,Bad". Leer = ganze Wohnung.
+      description: Beispiele 2,3,4 oder Küche,Bad. Leer = ganze Wohnung.
       default: ""
 
     # --- Abends (immer verfügbar) ---
@@ -167,7 +167,7 @@ blueprint:
 
     evening_rooms:
       name: Räume abends
-      description: Beispiele "2,3,4" oder "Küche,Bad". Leer = ganze Wohnung.
+      description: Beispiele 2,3,4 oder Küche,Bad. Leer = ganze Wohnung.
       default: ""
 
     # --- Erweiterte Blöcke A–D (immer verfügbar) ---
@@ -214,7 +214,7 @@ blueprint:
 
     blockA_rooms:
       name: Räume Block A
-      description: Beispiele "2,3,4" oder "Küche,Bad". Leer = ganze Wohnung.
+      description: Beispiele 2,3,4 oder Küche,Bad. Leer = ganze Wohnung.
       default: ""
 
     blockB_enabled:
@@ -260,7 +260,7 @@ blueprint:
 
     blockB_rooms:
       name: Räume Block B
-      description: Beispiele "2,3,4" oder "Küche,Bad". Leer = ganze Wohnung.
+      description: Beispiele 2,3,4 oder Küche,Bad. Leer = ganze Wohnung.
       default: ""
 
     blockC_enabled:
@@ -306,7 +306,7 @@ blueprint:
 
     blockC_rooms:
       name: Räume Block C
-      description: Beispiele "2,3,4" oder "Küche,Bad". Leer = ganze Wohnung.
+      description: Beispiele 2,3,4 oder Küche,Bad. Leer = ganze Wohnung.
       default: ""
 
     blockD_enabled:
@@ -352,7 +352,7 @@ blueprint:
 
     blockD_rooms:
       name: Räume Block D
-      description: Beispiele "2,3,4" oder "Küche,Bad". Leer = ganze Wohnung.
+      description: Beispiele 2,3,4 oder Küche,Bad. Leer = ganze Wohnung.
       default: ""
 
 mode: restart
